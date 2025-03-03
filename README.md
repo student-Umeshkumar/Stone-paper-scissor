@@ -1,1 +1,1 @@
-# Stone-paper-scissor
+# Game 2
